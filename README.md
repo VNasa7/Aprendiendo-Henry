@@ -1,2 +1,1 @@
-# Aprendiendo-Henry
-Repositorio de prueba modulo 2
+este repositorio es una prueba y clonarlo desde git hub a mi computadora.
